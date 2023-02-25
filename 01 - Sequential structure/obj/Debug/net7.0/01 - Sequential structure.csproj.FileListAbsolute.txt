@@ -1,0 +1,15 @@
+C:\Users\Felipe Hunter\Programação\CursoC#\C-Sharp_Udemy\Programming Logic Test\01 - Sequential structure\bin\Debug\net7.0\01 - Sequential structure.exe
+C:\Users\Felipe Hunter\Programação\CursoC#\C-Sharp_Udemy\Programming Logic Test\01 - Sequential structure\bin\Debug\net7.0\01 - Sequential structure.deps.json
+C:\Users\Felipe Hunter\Programação\CursoC#\C-Sharp_Udemy\Programming Logic Test\01 - Sequential structure\bin\Debug\net7.0\01 - Sequential structure.runtimeconfig.json
+C:\Users\Felipe Hunter\Programação\CursoC#\C-Sharp_Udemy\Programming Logic Test\01 - Sequential structure\bin\Debug\net7.0\01 - Sequential structure.dll
+C:\Users\Felipe Hunter\Programação\CursoC#\C-Sharp_Udemy\Programming Logic Test\01 - Sequential structure\bin\Debug\net7.0\01 - Sequential structure.pdb
+C:\Users\Felipe Hunter\Programação\CursoC#\C-Sharp_Udemy\Programming Logic Test\01 - Sequential structure\obj\Debug\net7.0\01 - Sequential structure.csproj.AssemblyReference.cache
+C:\Users\Felipe Hunter\Programação\CursoC#\C-Sharp_Udemy\Programming Logic Test\01 - Sequential structure\obj\Debug\net7.0\01 - Sequential structure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe Hunter\Programação\CursoC#\C-Sharp_Udemy\Programming Logic Test\01 - Sequential structure\obj\Debug\net7.0\01 - Sequential structure.AssemblyInfoInputs.cache
+C:\Users\Felipe Hunter\Programação\CursoC#\C-Sharp_Udemy\Programming Logic Test\01 - Sequential structure\obj\Debug\net7.0\01 - Sequential structure.AssemblyInfo.cs
+C:\Users\Felipe Hunter\Programação\CursoC#\C-Sharp_Udemy\Programming Logic Test\01 - Sequential structure\obj\Debug\net7.0\01 - Sequential structure.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Hunter\Programação\CursoC#\C-Sharp_Udemy\Programming Logic Test\01 - Sequential structure\obj\Debug\net7.0\01 - Sequential structure.dll
+C:\Users\Felipe Hunter\Programação\CursoC#\C-Sharp_Udemy\Programming Logic Test\01 - Sequential structure\obj\Debug\net7.0\refint\01 - Sequential structure.dll
+C:\Users\Felipe Hunter\Programação\CursoC#\C-Sharp_Udemy\Programming Logic Test\01 - Sequential structure\obj\Debug\net7.0\01 - Sequential structure.pdb
+C:\Users\Felipe Hunter\Programação\CursoC#\C-Sharp_Udemy\Programming Logic Test\01 - Sequential structure\obj\Debug\net7.0\01 - Sequential structure.genruntimeconfig.cache
+C:\Users\Felipe Hunter\Programação\CursoC#\C-Sharp_Udemy\Programming Logic Test\01 - Sequential structure\obj\Debug\net7.0\ref\01 - Sequential structure.dll
